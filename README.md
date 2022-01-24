@@ -1,4 +1,4 @@
-# TEclass
+# [TEclass](https://www.compgen.uni-muenster.de/tools/teclass/index.hbi?)
 Repeat sequence classification
 
 ## Requirements
