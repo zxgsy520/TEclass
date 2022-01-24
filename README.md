@@ -1,2 +1,2 @@
-# TEclass-
+# TEclass
 Repeat sequence classification
