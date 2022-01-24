@@ -1,0 +1,10 @@
+name: TEclass
+channels:
+  - anaconda
+  - conda-forge
+  - defaults
+dependencies:
+  - blast-legacy=2.2.26
+  - glimmer=3.02
+  - libsvm=325
+  - 
