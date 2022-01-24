@@ -1,7 +1,7 @@
 # [TEclass](https://www.compgen.uni-muenster.de/tools/teclass/index.hbi?)
 Repeat sequence classification
 
-## Requirements (下载和编译可以用问题，在bin里面有编译好的文件在linux中可以直接使用)
+## Requirements (这两个软件下载和编译可能有问题，在bin里面有编译好的文件在linux中可以直接使用)
 * [lvq_pak](http://www.cis.hut.fi/research/som-research/nnrc-programs.shtml)
   * [download](http://www.cis.hut.fi/research/lvq_pak/lvq_pak-3.1.tar)
 * [librf](http://mtv.ece.ucsb.edu/benlee/librf.html)
