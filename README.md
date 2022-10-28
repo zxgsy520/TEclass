@@ -20,5 +20,6 @@ git clone https://github.com/zxgsy520/TEclass.git
 mv TEclass v2.1.4
 cd v2.1.4
 conda env create --prefix=/Work/TEclass/v2.1.4 -f environment.yml
-
+#or(或者如下)
+conda create --prefix=/Work/TEclass/v2.1.4 -c bioconda blast-legacy=2.2.26 glimmer=3.02 -c conda-forge libsvm=325
 ```
