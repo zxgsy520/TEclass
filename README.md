@@ -24,8 +24,11 @@ conda env create --prefix=/Work/TEclass/v2.1.4 -f environment.yml
 #or(或者如下)
 #conda create --prefix=/Work/TEclass/v2.1.4 -c bioconda blast-legacy=2.2.26 glimmer=3.02 -c conda-forge libsvm=325
 cd bin
-chmod 755 ../../temp/*
-cp ../../temp/* .
+chmod 755 ../../temp/*.pl
+chmod 755 ../../temp/bin/*
+mv ../../temp/*.pl .
+mv ../../temp/*.pm .
+mv ../../temp/bin/* .
 ln -s TEclassBuild.pl TEclassBuild
 ln -s TEclassTest.pl TEclassTest
 ln -s /Work/TEclass_db/classifiers/   #classifiers 的模型数据库
