@@ -13,7 +13,7 @@ Repeat sequence classification
 Third-party
 -----------
 ```
-cd /Work
+cd /Work #软件安装路径
 mkdir TEclass
 cd TEclass
 git clone https://github.com/zxgsy520/TEclass.git
