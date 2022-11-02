@@ -1,6 +1,6 @@
 name: TEclass
 channels:
-  - anaconda
+  - bioconda
   - conda-forge
   - defaults
 dependencies:
