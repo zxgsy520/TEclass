@@ -4,7 +4,7 @@
 # databases. The input file is in fasta format.
 
 use warnings;
-use lib X  
+use lib "/home/TEclass/v2.1.4/bin/"; #这里的路径需要自己替换
 use TEclass;
 use Getopt::Std;
 use Configuration;
