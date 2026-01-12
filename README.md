@@ -35,3 +35,7 @@ ln -s TEclassBuild.pl TEclassBuild
 ln -s TEclassTest.pl TEclassTest
 ln -s /Work/TEclass_db/classifiers/   #classifiers 的模型数据库
 ```
+
+## References
+-----------
+[1] Zhang L, Shi Y, Gong W, et al. The tetraploid Camellia oleifera genome provides insights into evolution, agronomic traits, and genetic architecture of oil Camellia plants. Cell Rep. 2024;43(11):114902. doi:[10.1016/j.celrep.2024.114902](https://www.cell.com/cell-reports/fulltext/S2211-1247(24)01253-1?uuid=uuid%3Ae8f16f2d-e8b5-4510-a644-c4a910ae9884)
